@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A stop to a lying pamphlet falsly called Truths plea for infants lately published by Mr. Alexander Kellie, in answer to a book lately published, intituled, Infants baptism disproved ... / by Jer. Ives ...</title>
+            <author>Ives, Jeremiah, fl. 1653-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45834</idno>
+            <idno type="STC">Wing I1106</idno>
+            <idno type="STC">ESTC R9585</idno>
+            <idno type="EEBO-CITATION">11906587</idno>
+            <idno type="OCLC">ocm 11906587</idno>
+            <idno type="VID">50700</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50700)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 816:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A stop to a lying pamphlet falsly called Truths plea for infants lately published by Mr. Alexander Kellie, in answer to a book lately published, intituled, Infants baptism disproved ... / by Jer. Ives ...</title>
+                  <author>Ives, Jeremiah, fl. 1653-1674.</author>
+               </titleStmt>
+               <extent>[4], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kellie, Alexander. --  Truths plea for infants.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50700:1"/>
+            <pb facs="tcp:50700:1" rendition="simple:additions"/>
+            <p>A STOP TO A LYING PAMPHLET <hi>Falſly Called</hi> Truths Plea for Infants.</p>
+            <p>
+               <hi>Lately Publiſhed by Mr.</hi> Alexander Kellie, <hi>in Anſwer to a Booke lately publiſhed, Intituled,</hi> Infants Baptiſm Diſproved.</p>
+            <p>In which Pamphlet his very many <hi>Lyes</hi> and <hi>Eay<g ref="char:EOLhyphen"/>lings,</hi> not becoming a man meerly Civil (much leſſe a Miniſter of Chriſt as he pretends) are hereby manifeſt.</p>
+            <p>By JER: IVES, Cheeſmonger.</p>
+            <q>
+               <p>The mouth of him that ſpeaketh Lyes, ſhall be ſtopped,</p>
+               <bibl>
+                  <hi>Pſalm 63.11.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Should thy Lyes make men hold their peace? And when thou mockeſt, ſhall no man make thee aſhamed?</p>
+               <bibl>
+                  <hi>Job 11.3.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>The proud have forged a Lye againſt me,</p>
+               <bibl>
+                  <hi>Pſalm 119.69.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>And the Prophet that ſpeaketh Lyes he is the taile,</p>
+               <bibl>
+                  <hi>Eſay 9.15.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Holding faith and a good conſcience, which ſome have put away, and concerning faith have made ſhipwracke, of whom is <hi>Hy<g ref="char:EOLhyphen"/>meneus,</hi> and <hi>ALEXANDER,</hi> &amp;c.</p>
+               <bibl>
+                  <hi>1 Tim. 1.19, 20.</hi>
+               </bibl>
+            </q>
+            <p>LONDON: Printed for the Author. 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50700:2" rendition="simple:additions"/>
+            <pb facs="tcp:50700:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER;</salute>
+            </opener>
+            <p>THeſe enſuing lines are ſent out after a lying Pamphlet, that ſo thou mightſt apprehend it, and bring it to its deſerved judgement; and that thou mayeſt know it when thou meetest with it, first take notice of its name, which is, <hi>Truths Plea for Infants.</hi> Little would a Booke of this name be ſuſpected to have more Lyes in it, then it con<g ref="char:EOLhyphen"/>tains ſheets: But herein its much like the Phariſees Cups, that were clean without, but foule within. And this thou wilt find it to be, if thou ſhalt compare my Book and his Anſwer together, and obſerve the places in both to which I ſhall refer thee, which is all I ſhall doe at this time. This if I ſhould never doe any more, would be enough to keep the judgement of a wiſe man from being touched with ſuch an unclean thing. And truly, if <hi>James</hi> ſpeaks true, that <hi>A good fountaine cannot ſend forth ſweet water and bitter,</hi> then the manifeſt untruths in the Booke, doe plain<g ref="char:EOLhyphen"/>ly ſhew how little the Author was inſpired with the Spirit of truth, which Chriſt ſaith, <hi>John 16.13. will lead in<g ref="char:EOLhyphen"/>to ALL truth.</hi>
+            </p>
+            <p>And if this ſhall not be thought a ſufficient Anſwer to the whole, I doe aſſure thee, If Mr. <hi>Kellie</hi> will come in publick with his Booke in his hand, I will meet him, if he
+<pb facs="tcp:50700:3"/>dares, and ſhew him (before as many Scholars as he plea<g ref="char:EOLhyphen"/>ſes of his own judgement) that there is not any thing in my Booke, becauſe he talkes of my not knowing my <hi>Acci<g ref="char:EOLhyphen"/>dence</hi> (the Printers errors excepted, which his Booke is not free from) but I ſhall make appear to be according to their own Rules; and I ſhall alſo before the ſame men at the ſame time, ſhow him how much he hath ſwerved from the known Rules of the Schooles, and Chriſtianity, as though he were a ſtranger to both, as I have in part alrea<g ref="char:EOLhyphen"/>dy done, in divers places of my fore-mentioned Booke; from which he hath not ſo much as endeavoured to clear himſelfe. Thus hoping thou wilt take this in good part, I ſubſcribe my ſelfe</p>
+            <closer>
+               <signed>
+                  <hi>Thy Friend, ſo far as thou art the Truths.</hi> Jer: Ives.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50700:3"/>
+            <head>A STOP TO A Lying Pamphlet. <hi>FALSELY CALLED</hi> Truths Plea for Infants.</head>
+            <p>
+               <seg rend="decorInit">S</seg>INCE my preſent deſigne is to ſhew the Lyes and Scurrilous Language of Mr. <hi>Kellie</hi> his book falſly called, <hi>Truths Plea for In<g ref="char:EOLhyphen"/>fants:</hi> I ſhall firſt begin with his Lyes, and they may be cal<g ref="char:EOLhyphen"/>led <hi>Legions,</hi> for they are many. Among which take theſe that follow. The firſt that I ſhall mention, is in the lat<g ref="char:EOLhyphen"/>ter end of his Epiſtle to the Reader, where he excu<g ref="char:EOLhyphen"/>ſeth his impertinencies by telling his Reader, that <hi>He was to purſue me as a Thief with Hue and Cry over hedge and ditch.</hi> And by this he would make him believe, that I in my Book went out of the Road, in anſwering a Paper he ſent to my houſe; which is falſe, as my whole Book will declare, wherein I ſet
+<pb n="2" facs="tcp:50700:4"/>down all his Arguments impartially in a different Letter, and Anſwer them one by one, that the Rea<g ref="char:EOLhyphen"/>der might know what was mine, and what was his, which he did not doe in his Reply: How then went I out of the Road like a Thief?</p>
+            <p>Again, Why did not he ſhew me and his Rea<g ref="char:EOLhyphen"/>ders in what Page I did break the bounds of Diſ<g ref="char:EOLhyphen"/>courſe, that ſo he might have juſtified his breaking the hedge to goe after me: Doth not this plainly ſhew that I kept the road, and that he broke over hedge and ditch, becauſe he was afraid to meet with me? I ſhall therefore appeale to all men who know what method is, whether my Book in An<g ref="char:EOLhyphen"/>ſwer to his Paper, be not more methodicall then his Reply.</p>
+            <p>The ſecond Lye I ſhall mention, is in the 11 line of his Anſwer to my Epiſtle, where he ſaith, that <hi>I caſt dirt upon the fathers,</hi> becauſe I mention in my Epiſtle ſome of their Errours. How can this be caſt<g ref="char:EOLhyphen"/>ing dirt upon them, unleſſe they were not guilty of ſuch errors as I charge upon them? Now therefore he muſt needs be a Lyer in ſaying I throw dirt up<g ref="char:EOLhyphen"/>on the fathers, when I ſay nothing of them but what he knowes to be true, unleſſe he be ignorant of their Writings.</p>
+            <p>The third Lye I ſhall mention is that in the 12 line of his Anſwer to my Epiſtle, where he ſaith, that <hi>I doe not ſhew in what places to find their errors;</hi> which is falſe, for except two or three of the Fa<g ref="char:EOLhyphen"/>thers, whoſe errors were generally known, I doe mention the Books, Chapters, or Pages wherein the errors I charge them with may be found, as any one may ſee that reads over the Epiſtle to my Book.</p>
+            <pb n="3" facs="tcp:50700:4"/>
+            <p>The fourth Lye that I ſhall mention, is that in the 21, 22 line of his Anſwer to my Epiſtle; he ſaith, that <hi>I doe ſlander GODLY learned men, as men minding their profits and credits, more then the truth.</hi> This is falſe, for I dare not think, much leſſe write any ſuch thing of GODLY learned men, as to think that they mind their profits and credits, more then truth; no, I have not ſo learned Chriſt: But in<g ref="char:EOLhyphen"/>deed I ſaid the reaſon why the learned did not find out the right way, in the midſt of theſe many ways, was becauſe of their pride on the one hand, or profit on the other: Now doth this ſlander the GODLY learned, judge I pray, and ſee whether I ſay any ſuch thing in all my Epiſtle. I always thought the GOD<g ref="char:EOLhyphen"/>LY learned to be but a few in compariſon to the vaſt number of the learned; &amp; I likewiſe believe the GODLY learned are ſuch as would with that bleſ<g ref="char:EOLhyphen"/>ſed and godly Apoſtle <hi>Paul,</hi> count all things droſſe and dung, that they might win Chriſt.</p>
+            <p>The fifth Lye I ſhall mention is found about the middle of the 2 page of his Book, wherein he ſaith, that <hi>I cite ſome Scriptures of all Nations, but therein</hi> (he ſaith) <hi>I am no noble Berean as I would make men believe, in the beginning of my Epistle</hi> (His reaſon is) <hi>Becauſe</hi> (he ſaith, if you will believe him) <hi>that I doe not give one place ſet down where to find thoſe Scrip<g ref="char:EOLhyphen"/>tures.</hi> This is alſo a notorious untruth, for both the Chapters and Verſes are ſet down where to find every Text mentioned upon that occaſion, as you may ſee in my Book, page 2.</p>
+            <p>Again, A ſixth Lye he tells a few lines after, in the ſame 2 page of his Book, where he ſaith, that <hi>I ſaid Infants could not bleſſe.</hi> This is falſe, for I ſaid that Infants could not CALL Chriſt bleſſed, as you
+<pb n="4" facs="tcp:50700:5"/>may perceive by what I ſay toward the lower end of the third page of my Book; for there is a ſenſe in which all the works of God bleſſe and praiſe him, <hi>Pſal.</hi> 145.10. But doth it follow therefore that all his works CALL him bleſſed? Therefore to ſay, I ſaid Infants could not bleſſe or praiſe, is falſe.</p>
+            <p>A ſeventh Lye is in page 9. where he ſuppoſeth me to Interpret <hi>Eſay</hi> 65.20. <hi>as though Infants ſhould live an hundred years before they dye a naturall death, or elſe that they muſt dye in their eſtate in glory.</hi> Both which are falſly ſuggeſted, for I ſaid the contrary, that there ſhould be no infant of dayes in the new <hi>Jeruſalem,</hi> and ſo ſaith the Text; That the child (not an infant in his ſenſe) ſhould dye an hundred years old. Now Reader how that which I have ſaid in the 13 page of my Book, can give a man that puts away lying lips, occaſion to ſuppoſe that either I muſt mean that Infants muſt live a hundred years before they dye a naturall death, or elſe that they muſt die after they come to an eſtate of glory; judge.</p>
+            <p>The eighth Untruth that he tells, is page 10 of his Book, where he ſaith, <hi>That I like a baſe fellow ſaid, in the</hi> 16 <hi>page of my Booke, that God makes but a bare pro<g ref="char:EOLhyphen"/>miſe, but is not ſo good as his word.</hi> Indeed if I had ſaid ſo, I had been baſe, but there is no ſuch ſaying of mine in the whole Book. Sure this man might have been called <hi>Alexander the Coper-Smith,</hi> ſince he can forge Lyes to wrong his Neighbour, with ſo much confidence, and publiſh them in Print as he hath done.</p>
+            <p>The ninth Lye I ſhall mention is in the 40 page of his Book, towards the lower end of it, where he ſaith, <hi>That I ſaid there was no Antiqnity for Infants bap<g ref="char:EOLhyphen"/>tiſme in the firſt three hundred years after Chriſt.</hi> This
+<pb n="5" facs="tcp:50700:5"/>is falſe, I ſaid not ſo, as you may ſee in the 68 page of my Book, where I have theſe words <hi>(viz.)</hi> That <hi>Euſebius</hi> who wrote the Hiſtory of the firſt three hundred years, doth not mention the baptizing of one infant. I alſo ſaid in the ſame page, That the Churches did not receive men to baptiſm, but upon profeſſion of faith; and alſo, That infants baptiſm was no Apoſtolicall Cuſtome, nor SO MUCH the Cuſtome of thoſe times, as he did imagine. Doth this prove that I ſaid there was NO Antiquity for Infants baptiſm in the firſt three hundred years af<g ref="char:EOLhyphen"/>ter Chriſt? Nay, doth not thoſe words before men<g ref="char:EOLhyphen"/>tioned, and which are found in the beginning of the 69 page of my Book, prove the contrary <hi>(viz.)</hi> That it was not ſo MUCH the Cuſtome of thoſe times, <hi>&amp;c.</hi> Which plainly ſhewes, that this error was crep in even in the firſt three hundred years, though it was not ſo MUCH their Cuſtome, as it was afterwards.</p>
+            <p>Again, Did not <hi>Origen</hi> live in the firſt three hun<g ref="char:EOLhyphen"/>dred years? And doe not I ſay, page 68, that <hi>Origen</hi> was thought to favour Infants baptiſm; and yet this man dares to tell his Reader, that I ſay there was no Antiquity for Infants baptiſm the firſt three hun<g ref="char:EOLhyphen"/>dred years; which nothing is more falſe. However I have ſhewed, that if ſome Chriſtian Parents who were eminent lights in the Churches in thoſe times, did not baptize their infants, it much makes ſuch a practice queſtionable; that's all I brought thoſe paſſages for; for many errors were crept into the Church at that time, and the being of them then, doth not prove the truth of them.</p>
+            <pb n="6" facs="tcp:50700:6"/>
+            <p>I ſhall now give a Catalogue of his unſavory ſpeech, that plainly will ſhew what ſpirit did aſſiſt him in writing his Book, which becauſe there was a word Printed in my Epiſtle to my Book, that was not true Orthography, that is to ſay, not truly ſpelt, <hi>that therefore I did no more know what the word meant, then the heele of an old Cheeſe.</hi>
+               <note n="*">See his Book towards the lat<g ref="char:EOLhyphen"/>ter end of his Anſwer to my Epiſtle.</note> Suppoſe I had ſpelt the word falſe, and that it had not been the Printers Errata, doth this prove what he hath ſpoken, that I doe not know the meaning of it, no more then the heele of an old Cheeſe. Doth it follow that becauſe a man cannot ſpell a word, that therefore he doth not know what is meant by it? As for example, Doth it follow that though a man ſhould not ſpell Horſe aright, that he knowes no more what a Horſe is, then the heele of an old Cheeſe?</p>
+            <p>Nay further, whereas he talks of the <hi>Mathema<g ref="char:EOLhyphen"/>ticks,</hi> I know many Seamen that are better <hi>Mathe<g ref="char:EOLhyphen"/>maticians</hi> then Mr. <hi>Kellie,</hi> that doe not know how to ſpell all the tearms of Art belonging to it, and yet doe underſtand them better then the heele of an old Cheeſe: By this you may ſee he matters not what he ſaith.</p>
+            <p>Again in his Book, page 4. he ſaith, <hi>That I would make ſimple people believe the Moon was made of green Cheeſe; but</hi> (he ſaith) <hi>the Cheeſmonger hath never a taſter to make them find it ſo.</hi>
+            </p>
+            <p>Again, page the 6 he ſaith, meaning my ſelf, <hi>You are a ſweet youth.</hi>
+            </p>
+            <p>Again, page the 9 he calls me, <hi>Miſerable bold fel<g ref="char:EOLhyphen"/>low.</hi>
+            </p>
+            <p>In the ſame page, about the latter end of it, he
+<pb n="7" facs="tcp:50700:6"/>ſaith, <hi>He perceives the knavery of Hereticks.</hi> This he applyes to me, becauſe of what I anſwered to his Argument in my Book, page 17. Which if in that Anſwer there is any thing that renders me a knave, read and judge.</p>
+            <p>Again, page 21 he ſaith, <hi>When my Noſe is Cheeſe, the Cats ſhall eat it.</hi>
+            </p>
+            <p>Again, page 22 he hath theſe words, <hi>
+                  <g ref="char:V">Ʋ</g>p Robin, the Ram's in the Rye.</hi>
+            </p>
+            <p>Again, page 34 he ſaith, <hi>I talke like an Aſſe.</hi> If theſe words ſavour of the Spirit which is from a<g ref="char:EOLhyphen"/>bove, judge.</p>
+            <p>Again, he would faine make us whom he calls <hi>Anabaptiſts</hi> odious, by telling his Reader that we are divided among our ſelves, as you may ſee in the be<g ref="char:EOLhyphen"/>ginning of his Anſwer to my Epiſtle; and that there be none more contradictious then we, both to all the godly learned in the world, and likewiſe to one another. <hi>Some</hi> (he ſaith) <hi>are for the Glaſſe-houſe, ſome for Pauls, ſome for Beach-lane, ſome for Arminians, ſome againſt them: Many that frequent one of our places</hi> (he ſaith) <hi>think it abomination to goe to another of them. Many of us</hi> (he ſaith) <hi>are turned Ranters, and Qua<g ref="char:EOLhyphen"/>kers,</hi> &amp;c. The like you ſhall find in the 36 page of his Book.</p>
+            <p>To all which I Anſwer, That this is as falſe as the reſt, to ſay that NONE are more contradicti<g ref="char:EOLhyphen"/>ous then thoſe he calls <hi>Anabaptiſts;</hi> for firſt, They that are for Infants baptiſm are more contradicti<g ref="char:EOLhyphen"/>ous; as for inſtance, Some are <hi>Papiſts,</hi> ſome are <hi>Lutherans,</hi> ſome are <hi>Calviniſts,</hi> ſome <hi>Arminians,</hi> ſome <hi>Arians,</hi> ſome <hi>Athanaſians;</hi> ſome for the ſalva<g ref="char:EOLhyphen"/>tion of all, both men and Devils, as <hi>Origen</hi> was, whom he brings as one of the Fathers that held Infants
+<pb n="8" facs="tcp:50700:7"/>baptiſm. See page 41 of his Bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k. Others againſt him, and for the ſalvation of none but the Elect. Some have been for Epiſcopacy, ſome for Preſbyte<g ref="char:EOLhyphen"/>ry, ſome for Independancy; ſome have been Brow<g ref="char:EOLhyphen"/>niſts, and have judged it abomination to come to any of his Aſſemblies; ſome have been for the Croſs in baptiſm; others againſt it; ſome for God fa<g ref="char:EOLhyphen"/>thers and God mothers, others of them have judg<g ref="char:EOLhyphen"/>ed it a Popiſh Inovatiou; ſome have been for ſports, as <hi>May</hi>-poles, and dancing upon the Lords day; others have been zealous againſt it; for this cauſe ſome of you have cut the ears, and ſlit the noſes, and branded the cheeks; whip't, baniſh't, pilloried, and impriſon'd others, though they have been for In<g ref="char:EOLhyphen"/>fants baptiſm alike zealous.</p>
+            <p>Again, how have you Poedobaptiſts ſtudied to deſtroy one another, and take away the lives of one another, witneſſe the Gunpowder Treaſon, the late Maſſacre in <hi>Savoy?</hi> How cruelly did you per<g ref="char:EOLhyphen"/>ſecute one another in Queen <hi>Mary's</hi> dayes?</p>
+            <p>And whereas he talks of turning with the Times, who hath been more guilty of this then the genera<g ref="char:EOLhyphen"/>lity of Poedobaptiſts, who in Queen <hi>Mary's</hi> dayes were moſt of them papiſts, in Queen <hi>Elizabeth's</hi> moſt were turned Protestants, in the Biſhops time moſt were for Biſhops, and in the Parliament time moſt were againſt Biſhops; and over and beſides all theſe, who are for Infants baptiſm, and yet are thus divided. Let me add to make full meaſure, Maſter Rude multitude in all parts of the Chriſtian world, who are alſo very zealous for infants baptiſm. And yet this man dares ſay, None are more contradicti<g ref="char:EOLhyphen"/>ous then <hi>Anabaptiſſts.</hi> Can any man that hath not
+<pb n="9" facs="tcp:50700:7"/>ſinned away his conſcience, ſay ſuch a thing with<g ref="char:EOLhyphen"/>out bluſhing?</p>
+            <p>And whereas he ſaith, <hi>Many of us are turned to be Quakers and Ranters,</hi> &amp;c. I Anſwer, Who but a man that was minded to tempt his Antagoniſt to lay open his weakneſſe, would have opened his mouth ſo weakly? For doe not moſt of the <hi>Quakers</hi> at this day conſiſt of ſuch as came from the Church of <hi>England,</hi> and were never of any baptized Church? But ſuppoſe they were of us, as it is like ſome were, yet they left us, and their baptiſm too, before they fell into theſe ſtraines; and we have by our dealing with them according to Chriſts rule, left them, up<g ref="char:EOLhyphen"/>on their leaving the truth. But now what multi<g ref="char:EOLhyphen"/>tudes are there at every Aſſize and Seſſion, both in City and Country, that are condemned juſtly to the Gallowes, ſome for Murder, ſome for Theft, ſome for Sodomy, ſome for Inceſt, ſome for Buggery, ſome for Witchcraft, ſome for Treaſon, who all dye at the Gallowes Members related to the Church of <hi>England.</hi> I doe not mention this as an Argument to prove the falſeneſſe of my Oppoſites Opinion: No, I ſcorn ſuch unmanlike Arguments; for there hath been, and may be bad men of the beſt profeſſi<g ref="char:EOLhyphen"/>on; but to ſhew that my Antagoniſt had mightily forgot the many Errors and Vices of the Poedobap<g ref="char:EOLhyphen"/>tiſts, while he was blazoning before the world the Errors of the <hi>Anabaptiſts,</hi> by which he would fright<g ref="char:EOLhyphen"/>en the ſimple, as though none were more contradi<g ref="char:EOLhyphen"/>ous and unholy then we; whereas nothing in the world is more falſe: Though I could wiſh with my ſoule, that we were all of us (which he calls <hi>Ana<g ref="char:EOLhyphen"/>baptiſts</hi>)
+<pb n="10" facs="tcp:50700:8"/>more holy, that no occaſion might be gi<g ref="char:EOLhyphen"/>ven to the Adverſary to ſpeak reproachfully; who are apt enough to deviſe evill againſt us, though we ſhould give them no occaſion, as Mr. <hi>Kellie</hi> hath done againſt me, laying to my charge the thing that I never ſpake: But this is no new thing, for if they have call'd the Maſter of the houſe <hi>Belzebub,</hi> how much more they of his houſ<g ref="char:EOLhyphen"/>hold?</p>
+            <p>I have now done with his new Arguments, by which he confutes my Book; and for the reſt, they are moſt of them old ones, which he ſent in a Paper to my houſe, and I have anſwered them in my Book; and he like a man in a Circle brings the Arguments denyed, as a Reply to my Anſwers, as you may ſee by viewing over my Book, and his Anſwer to it: How that moſt of his Reply to me, is but a repetition of what I have already Anſwe<g ref="char:EOLhyphen"/>red.</p>
+            <p>I ſay again therefore, if Mr. <hi>Kellie</hi> will meet me in publick, let him appoint time and place, and I ſhall juſtifie all that is ſaid in my Book, either as touching the controverſie it ſelf, or any other words that have fallen from my pen, ſave (as I have ſaid) the Printers Errors, which I had not time to correct when I ſent my Book to him; and I am ſure his Book is not without many ſuch Errors; and therefore he hath ſhewn his weakneſſe to carp at ſuch things; as the miſ-citing of ſome Texts, and the miſ-ſpelling of ſome words, although his Conſcience could not but tell him they procee<g ref="char:EOLhyphen"/>ded not from error of Judgement.</p>
+            <pb n="11" facs="tcp:50700:8"/>
+            <p>I ſhall now conclude with the words of Chriſt, <hi>Mat.</hi> 12.36. <hi>But I ſay unto you, that for every IDLE WORD men ſhall ſpeake, they ſhall give an account thereof in the day of Judgement.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
